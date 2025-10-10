@@ -25,4 +25,9 @@ html {
   margin-left:50px;
 }
 
+
 /* NEW CSS HERE */
+tbody, td, tfoot, th, thead, tr {
+  border:1px solid black !important;
+  padding:10px!important;
+}
