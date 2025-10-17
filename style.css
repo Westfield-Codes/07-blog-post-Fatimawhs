@@ -33,9 +33,33 @@ tbody, td, tfoot, th, thead, tr {
 }
 
 body {
-  background-color: rgb(245, 206, 232);
+  background-color: rgb(253, 226, 244);
 }
 
 body, h1, h2, h3, h4, h5, h6 {
   font-family: 'Times New Roman', Times, serif
+}
+h4 {
+  color:blue;
+}
+h1 {
+  color:rgb(245, 98, 208);
+}
+h3 { 
+  color:blueviolet
+}
+p {
+  font-style:italic;
+}
+table { 
+  font-style:italic
+}
+th {
+  background-color:rgb(223, 119, 134)
+}
+td {
+  color:rgb(216, 79, 99)
+}
+img {
+  border:2px solid black;
 }
