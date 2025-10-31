@@ -34,6 +34,7 @@ tbody, td, tfoot, th, thead, tr {
 
 body {
   background-color: rgb(253, 226, 244);
+  font-size:18px;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
@@ -50,15 +51,17 @@ h3 {
 }
 p {
   font-style:italic;
+  font-size:18px;
 }
 table { 
   font-style:italic
 }
 th {
   background-color:rgb(223, 119, 134)
+  font-size:25px;
 }
 td {
-  color:rgb(216, 79, 99)
+  color:rgb(239, 0, 36)
 }
 img {
   border:2px solid black;
